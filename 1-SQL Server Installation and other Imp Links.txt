@@ -1,0 +1,42 @@
+Book Recommendation - 
+PL-300 Prep - https://bit.ly/PL300Prep
+Power BI Power BI - https://bit.ly/PBIBOOK1
+DAX - https://bit.ly/DAXBook1
+
+SQL Server Books - 
+https://bit.ly/SQLBook1
+https://bit.ly/SQLBOOK2
+
+
+Refer to the following links to download, install or understand the installation process for the different data sources we will cover in our course.
+
+
+Download Link for Power BI Desktop - https://powerbi.microsoft.com/en-us/downloads/
+
+Sample SuperStore Dataset - https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
+
+FactInternetSales Csv files - https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works/data-warehouse-install-script
+
+SQL Server Installation Guide - 
+https://www.c-sharpcorner.com/article/step-by-step-installation-of-microsoft-sql-server-on-windows-system/
+
+SQL Server Adventure works Database (Sample Databases) - Instruction on how to restore these databases are available in the same link. Please go through those intructions and restore the databases.
+https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
+Laptop I use:
+Here is the link to the laptop I use. Power BI needs a lot of memory and resources to work efficiently. Your laptop may respond slow if you do not have enough memory/RAM or processing power.
+https://bit.ly/LaptopIuse
+
+WorldoMeter Link - https://www.worldometers.info/coronavirus/
+
+Data.World (This website provides a variety of datasets. Explore the datasets and use them in your sample projects) - https://data.world/
+
+Kaggle (This website provides a variety of datasets. Explore the datasets and use them in your sample projects) - https://www.kaggle.com/
+
+
+
+
+
+
+
+
